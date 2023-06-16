@@ -4,7 +4,7 @@ using namespace std;
 
 class Restaurant {
    public:
-      Restaurant();
+      Restaurant(); // Declared here
       void SetName(string restaurantName);
       void SetRating(int userRating);
       void Print();
