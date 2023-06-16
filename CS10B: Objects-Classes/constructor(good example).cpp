@@ -14,7 +14,7 @@ class Restaurant {
 };
 
 Restaurant::Restaurant() {  // Default constructor
-   name = "NoName";         // Default name: NoName indicates name was not set
+   name = "NoName";         // Default name: NoName indicates name was not set (honestly same as doing it in private)
    rating = -1;             // Default rating: -1 indicates rating was not set
 }
 
